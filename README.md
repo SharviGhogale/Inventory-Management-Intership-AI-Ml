@@ -2,7 +2,7 @@
 This repository is having all codes used for an Inventory management system 
 
 # Files : 
-  Inventory.ipynb  ,
+  Inventory.ipynb   ,
   record.json   ,
   sales.json   
   
@@ -11,11 +11,11 @@ This repository is having all codes used for an Inventory management system
   import pandas as pd
   
 # Features :
-   json no sql for record and sales (loads(),dumps()) ,
+   json no sql for record and sales (loads(),dumps())   ,
    File handling   ,
    Automated billing   ,
    Addition of new products to the database   ,
-   Sales bar graph using pandas(DataFrame(),transpose(), .plot.bar())  
+   Sales bar graph using pandas(DataFrame(),transpose(), .plot.bar())   
    
  # About me :
    I am Sharvi Ghogale. Curretly doing my BE in Computer Engineering.
