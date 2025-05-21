@@ -18,7 +18,4 @@ This repository is having all codes used for an Inventory management system
 	Addition of new products to the database   ,
 	Sales bar graph using pandas(DataFrame(),transpose(), .plot.bar())   
    
- # About me :
-   I am Sharvi Ghogale. Curretly doing my BE in Computer Engineering.
-	 Interest and Goal in the world of AI/ML.
    
